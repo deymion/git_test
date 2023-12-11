@@ -1,0 +1,9 @@
+```Bash
+git add <file name>
+```
+Use to add file.
+
+```Bash
+git status
+```
+check status of repository.
